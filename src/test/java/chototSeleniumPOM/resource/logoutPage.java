@@ -15,11 +15,11 @@ public class logoutPage {
         this.driver = driver;
     }
 
-    public void logout() {
-
-        //Click button 'Thêm'
+    public void clickBtmThem () {
         driver.findElement(themBtn).click();
+    }
 
+    public void clickBtnLogout() {
         JavascriptExecutor js = (JavascriptExecutor) driver;
         {
             //Move to menu page
@@ -34,7 +34,7 @@ public class logoutPage {
     }
 
     //Verify logout success, button "Đăng nhập" appear
-    public void verifyLogout() {
+    public void verifyBtnLoginAfterLogout() {
         String value = driver.findElement(By.cssSelector("b")).getText();
         System.out.println("Logout success, back to homepage, button: " + value + " appear!");
     }

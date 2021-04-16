@@ -34,12 +34,14 @@ public class loginTest {
         login.accessToLoginPage();
         login.loginAction("0367599015", "123456");
         login.clickBtnLogin();
-        login.accessToUserDashboard(); //Expected: can access
+        login.accessToUserDashboard(); //Login success can access to user dashboard
     }
 
     @Test(priority = 2)
     public void logout() {
-        logout.logout(); //Expected: logout success
+        logout.clickBtmThem(); //To show menu with logout button
+        logout.clickBtnLogout(); //Click button logout
+        logout.verifyBtnLoginAfterLogout();//Logout susscess if the button 'Đăng nhập' appear on homepage
     }
 
     @Test(priority = 3)
