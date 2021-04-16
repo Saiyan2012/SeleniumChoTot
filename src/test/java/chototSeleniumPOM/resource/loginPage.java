@@ -3,8 +3,11 @@ package chototSeleniumPOM.resource;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.Color;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.Map;
+import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
 import static chototSeleniumPOM.resource.resource.*;
@@ -81,9 +84,11 @@ public class loginPage {
         driver.findElement(pass).sendKeys(pwd);
 
         for (int i = 1; i < 5; i++) {
-            driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+            //driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+            WebDriverWait wait = new WebDriverWait(driver, 10);
             driver.findElement(loginBtnAction).click();
             System.out.println(" -> " + driver.findElement(warningWrongInfo).getText());
+            wait.until(ExpectedConditions.visibilityOfElementLocated(warningWrongInfo));
         }
     }
 

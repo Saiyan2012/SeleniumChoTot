@@ -94,7 +94,7 @@ public class loginTest {
     @Test(priority = 5)
     public void blockAccountWrongPass() {
         System.out.println("Test case account get block when wrong password more than 5 times.");
-        login.blockAccountWrongPassword("0367599015", "123123");
+        login.blockAccountWrongPassword("0367599020", "123123");
         login.popupBlockAccount();
     }
 }
