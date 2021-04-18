@@ -65,23 +65,27 @@ public class loginTest {
 
     @Test(priority = 4)
     public void leaveBlankPhoneOrPassword() {
-        int i = 1;
-        switch (i++) {
+        login.accessToLoginPage();
+        int i = 0;
+        switch (++i) {
             case 1:
-                login.loginAction("", "123123");
-                System.out.print("Test case leave blank phone: ");
-                login.verifyEmptyUsernamePassword();
-                login.verifyLoginBtnActiveOrNot();
-            case 2:
-                login.loginAction("123123", "");
-                System.out.print("Test case leave blank password: ");
-                login.verifyEmptyUsernamePassword();
-                login.verifyLoginBtnActiveOrNot();
-            case 3:
                 login.loginAction("", "");
-                System.out.print("Test case leave blank phone and password: ");
+                System.out.print("Test case leave blank phone and password: Result ");
                 login.verifyEmptyUsernamePassword();
                 login.verifyLoginBtnActiveOrNot();
+                driver.navigate().refresh();
+            case 2:
+                login.loginAction("", "123123");
+                System.out.print("Test case leave blank phone: Result ");
+                login.verifyEmptyUsernamePassword();
+                login.verifyLoginBtnActiveOrNot();
+                driver.navigate().refresh();
+            case 3:
+                login.loginAction("0367599600", "");
+                System.out.print("Test case leave blank password: Result ");
+                login.verifyEmptyUsernamePassword();
+                login.verifyLoginBtnActiveOrNot();
+                driver.navigate().refresh();
 
             default:
                 login.loginAction("12312312", "12312312");
@@ -94,8 +98,8 @@ public class loginTest {
     @Test(priority = 5)
     public void blockAccountWrongPass() {
         System.out.println("Test case account get block when wrong password more than 5 times.");
-        login.blockAccountWrongPassword("0367599020", "123123");
-        login.popupBlockAccount();
+        login.inputWrongPwdToGetBlocked("0367599020", "123123");
+        login.verifyPopupBlockAccount();
     }
 }
 

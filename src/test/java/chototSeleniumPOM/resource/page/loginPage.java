@@ -50,13 +50,16 @@ public class loginPage {
         WebElement inputPass = driver.findElement(pass);
         String checkInputPhone = inputPhone.getAttribute("value");
         String checkInputPass = inputPass.getAttribute("value");
-        if (checkInputPhone.isEmpty()) {
+        if (checkInputPhone.isEmpty() && checkInputPass.isEmpty()) {
+            System.out.print("Phone/password are empty!");
+        }else if (checkInputPhone.isEmpty()) {
             System.out.print("Phone is empty");
         } else if (checkInputPass.isEmpty()) {
             System.out.print("Password is empty");
         } else {
             System.out.print("Phone/password are not empty!");
         }
+
     }
 
     public void verifyLoginBtnActiveOrNot() {
@@ -76,7 +79,7 @@ public class loginPage {
             System.out.println("There is no warning when input wrong username");
     }
 
-    public void blockAccountWrongPassword(String phoneNbr, String pwd) {
+    public void inputWrongPwdToGetBlocked(String phoneNbr, String pwd) {
         driver.findElement(loginBtn).click();
         driver.findElement(phone).sendKeys(phoneNbr);
         driver.findElement(pass).sendKeys(pwd);
@@ -90,11 +93,11 @@ public class loginPage {
         }
     }
 
-    public void popupBlockAccount() {
+    public void verifyPopupBlockAccount() {
         driver.findElement(loginBtnAction).click();
         WebDriverWait wait =new WebDriverWait(driver, 5);
         wait.until(ExpectedConditions.visibilityOfElementLocated(textBlock));
-        System.out.println(driver.findElement(textBlock).getText());
+        //System.out.println(driver.findElement(textBlock).getText());
         {
             //Move action to popup
             WebElement element = driver.findElement(popupBlock);
