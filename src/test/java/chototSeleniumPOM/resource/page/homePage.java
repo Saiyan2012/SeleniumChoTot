@@ -1,4 +1,4 @@
-package chototSeleniumPOM.resource;
+package chototSeleniumPOM.resource.page;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

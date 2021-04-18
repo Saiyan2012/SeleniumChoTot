@@ -1,15 +1,11 @@
-package chototSeleniumPOM.resource;
+package chototSeleniumPOM.resource.data;
 
-import com.sun.applet2.AppletParameters;
+import chototSeleniumPOM.resource.page.homePage;
+import chototSeleniumPOM.resource.page.loginPage;
+import chototSeleniumPOM.resource.page.logoutPage;
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.io.FileInputStream;
-import java.util.HashMap;
 
 public @interface resource {
 

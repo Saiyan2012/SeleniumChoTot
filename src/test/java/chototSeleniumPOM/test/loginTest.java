@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
 
 
-import static chototSeleniumPOM.resource.resource.*;
+import static chototSeleniumPOM.resource.data.resource.*;
 
 
 public class loginTest {
@@ -48,7 +48,7 @@ public class loginTest {
     public void testCaseLoginInvalid() {
         login.accessToLoginPage();
         //Input invalid phone
-        login.loginAction("123123123", "123123");
+        login.loginAction("8273912873", "123123");
         login.clickBtnLogin();
         System.out.print("Test case invalid phone: ");
         login.showWarningInvalidPhone();

@@ -1,4 +1,4 @@
-package chototSeleniumPOM.resource;
+package chototSeleniumPOM.resource.page;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
@@ -7,10 +7,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.Map;
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.TimeUnit;
 
-import static chototSeleniumPOM.resource.resource.*;
+import static chototSeleniumPOM.resource.data.resource.*;
 
 
 public class loginPage {
@@ -94,6 +92,8 @@ public class loginPage {
 
     public void popupBlockAccount() {
         driver.findElement(loginBtnAction).click();
+        WebDriverWait wait =new WebDriverWait(driver, 5);
+        wait.until(ExpectedConditions.visibilityOfElementLocated(textBlock));
         System.out.println(driver.findElement(textBlock).getText());
         {
             //Move action to popup

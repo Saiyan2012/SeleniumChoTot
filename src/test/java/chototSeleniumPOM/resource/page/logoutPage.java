@@ -1,4 +1,4 @@
-package chototSeleniumPOM.resource;
+package chototSeleniumPOM.resource.page;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
-import static chototSeleniumPOM.resource.resource.*;
+import static chototSeleniumPOM.resource.data.resource.*;
 
 public class logoutPage {
     WebDriver driver;

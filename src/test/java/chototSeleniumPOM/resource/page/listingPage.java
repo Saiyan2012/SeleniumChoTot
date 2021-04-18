@@ -1,7 +1,5 @@
-package chototSeleniumPOM.resource;
+package chototSeleniumPOM.resource.page;
 import org.openqa.selenium.WebDriver;
-
-import static chototSeleniumPOM.resource.resource.*;
 
 public class listingPage {
     WebDriver driver;
