@@ -1,0 +1,2338 @@
+﻿{
+  "bookStoreCity": [
+    "bookStoreDistrict01",
+    [
+      "bookshelf01",
+      [
+        "type",
+        [
+          "science",
+          [
+            "book",
+            [
+              {
+                "id": "sc01",
+                "name": "sách khoa học 01",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc02",
+                "name": "sách khoa học 02",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc03",
+                "name": "sách khoa học 03",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc04",
+                "name": "sách khoa học 04",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc05",
+                "name": "sách khoa học 05",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom",
+            [
+              "book",
+              {
+                "id": "km01",
+                "name": "sách mẹ và bé 01",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km02",
+                "name": "sách mẹ và bé 02",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km03",
+                "name": "sách mẹ và bé 03",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km04",
+                "name": "sách mẹ và bé 04",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km05",
+                "name": "sách mẹ và bé 05",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure",
+            [
+              "book",
+              {
+                "id": "ad01",
+                "name": "sách thám hiểm 01",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad02",
+                "name": "sách thám hiểm 02",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad03",
+                "name": "sách thám hiểm 03",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad04",
+                "name": "sách thám hiểm 04",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad05",
+                "name": "sách thám hiểm 05",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems",
+            [
+              "book",
+              {
+                "id": "po01",
+                "name": "sách thơ tình 01",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po02",
+                "name": "sách thơ tình 02",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po03",
+                "name": "sách thơ tình 03",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po04",
+                "name": "sách thơ tình 04",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po05",
+                "name": "sách thơ tình 05",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror",
+            [
+              "book",
+              [
+                {
+                  "id": "hr01",
+                  "name": "sách kinh dị 01",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr02",
+                  "name": "sách kinh dị 02",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr03",
+                  "name": "sách kinh dị 03",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr04",
+                  "name": "sách kinh dị 04",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr05",
+                  "name": "sách kinh dị 05",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf02",
+      [
+        "type",
+        [
+          "science BS02",
+          [
+            "book",
+            [
+              {
+                "id": "sc201",
+                "name": "sách khoa học 201",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc202",
+                "name": "sách khoa học 202",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc203",
+                "name": "sách khoa học 203",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc204",
+                "name": "sách khoa học 204",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc205",
+                "name": "sách khoa học 205",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS2",
+            [
+              "book",
+              {
+                "id": "km201",
+                "name": "sách mẹ và bé 201",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km202",
+                "name": "sách mẹ và bé 202",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km203",
+                "name": "sách mẹ và bé 203",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km204",
+                "name": "sách mẹ và bé 204",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km205",
+                "name": "sách mẹ và bé 205",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS2",
+            [
+              "book",
+              {
+                "id": "ad201",
+                "name": "sách thám hiểm 201",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad202",
+                "name": "sách thám hiểm 202",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad203",
+                "name": "sách thám hiểm 203",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad204",
+                "name": "sách thám hiểm 204",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad205",
+                "name": "sách thám hiểm 205",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS2",
+            [
+              "book",
+              {
+                "id": "po201",
+                "name": "sách thơ tình 201",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po202",
+                "name": "sách thơ tình 202",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po203",
+                "name": "sách thơ tình 203",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po204",
+                "name": "sách thơ tình 204",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po205",
+                "name": "sách thơ tình 205",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS2",
+            [
+              "book",
+              [
+                {
+                  "id": "hr201",
+                  "name": "sách kinh dị 201",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr202",
+                  "name": "sách kinh dị 202",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr203",
+                  "name": "sách kinh dị 203",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr204",
+                  "name": "sách kinh dị 204",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr205",
+                  "name": "sách kinh dị 205",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf03",
+      [
+        "type",
+        [
+          "science BS03",
+          [
+            "book",
+            [
+              {
+                "id": "sc301",
+                "name": "sách khoa học 301",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc302",
+                "name": "sách khoa học 302",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc303",
+                "name": "sách khoa học 303",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc304",
+                "name": "sách khoa học 304",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc305",
+                "name": "sách khoa học 305",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS3",
+            [
+              "book",
+              {
+                "id": "km301",
+                "name": "sách mẹ và bé 301",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km302",
+                "name": "sách mẹ và bé 302",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km303",
+                "name": "sách mẹ và bé 303",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km304",
+                "name": "sách mẹ và bé 304",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km305",
+                "name": "sách mẹ và bé 305",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS3",
+            [
+              "book",
+              {
+                "id": "ad301",
+                "name": "sách thám hiểm 301",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad302",
+                "name": "sách thám hiểm 302",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad303",
+                "name": "sách thám hiểm 303",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad304",
+                "name": "sách thám hiểm 304",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad305",
+                "name": "sách thám hiểm 305",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS3",
+            [
+              "book",
+              {
+                "id": "po301",
+                "name": "sách thơ tình 301",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po302",
+                "name": "sách thơ tình 302",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po303",
+                "name": "sách thơ tình 303",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po304",
+                "name": "sách thơ tình 304",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po305",
+                "name": "sách thơ tình 305",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS3",
+            [
+              "book",
+              [
+                {
+                  "id": "hr301",
+                  "name": "sách kinh dị 301",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr302",
+                  "name": "sách kinh dị 302",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr303",
+                  "name": "sách kinh dị 303",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr304",
+                  "name": "sách kinh dị 304",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr305",
+                  "name": "sách kinh dị 305",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf04",
+      [
+        "type",
+        [
+          "science BS04",
+          [
+            "book",
+            [
+              {
+                "id": "sc401",
+                "name": "sách khoa học 401",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc402",
+                "name": "sách khoa học 402",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc403",
+                "name": "sách khoa học 403",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc404",
+                "name": "sách khoa học 404",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc405",
+                "name": "sách khoa học 405",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS4",
+            [
+              "book",
+              {
+                "id": "km401",
+                "name": "sách mẹ và bé 401",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km402",
+                "name": "sách mẹ và bé 402",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km403",
+                "name": "sách mẹ và bé 403",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km404",
+                "name": "sách mẹ và bé 404",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km405",
+                "name": "sách mẹ và bé 405",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS4",
+            [
+              "book",
+              {
+                "id": "ad401",
+                "name": "sách thám hiểm 401",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad402",
+                "name": "sách thám hiểm 402",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad403",
+                "name": "sách thám hiểm 403",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad404",
+                "name": "sách thám hiểm 404",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad405",
+                "name": "sách thám hiểm 405",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS4",
+            [
+              "book",
+              {
+                "id": "po401",
+                "name": "sách thơ tình 401",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po402",
+                "name": "sách thơ tình 402",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po403",
+                "name": "sách thơ tình 403",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po404",
+                "name": "sách thơ tình 404",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po405",
+                "name": "sách thơ tình 405",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS4",
+            [
+              "book",
+              [
+                {
+                  "id": "hr401",
+                  "name": "sách kinh dị 401",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr402",
+                  "name": "sách kinh dị 402",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr403",
+                  "name": "sách kinh dị 403",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr404",
+                  "name": "sách kinh dị 404",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr405",
+                  "name": "sách kinh dị 405",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf05",
+      [
+        "type",
+        [
+          "science BS05",
+          [
+            "book",
+            [
+              {
+                "id": "sc501",
+                "name": "sách khoa học 501",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc502",
+                "name": "sách khoa học 502",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc503",
+                "name": "sách khoa học 503",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc504",
+                "name": "sách khoa học 504",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc505",
+                "name": "sách khoa học 505",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS5",
+            [
+              "book",
+              {
+                "id": "km501",
+                "name": "sách mẹ và bé 501",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km502",
+                "name": "sách mẹ và bé 502",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km503",
+                "name": "sách mẹ và bé 503",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km504",
+                "name": "sách mẹ và bé 504",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km505",
+                "name": "sách mẹ và bé 505",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS5",
+            [
+              "book",
+              {
+                "id": "ad501",
+                "name": "sách thám hiểm 501",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad502",
+                "name": "sách thám hiểm 502",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad503",
+                "name": "sách thám hiểm 503",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad504",
+                "name": "sách thám hiểm 504",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad505",
+                "name": "sách thám hiểm 505",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS5",
+            [
+              "book",
+              {
+                "id": "po501",
+                "name": "sách thơ tình 501",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po502",
+                "name": "sách thơ tình 502",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po503",
+                "name": "sách thơ tình 503",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po504",
+                "name": "sách thơ tình 504",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po505",
+                "name": "sách thơ tình 505",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS5",
+            [
+              "book",
+              [
+                {
+                  "id": "hr501",
+                  "name": "sách kinh dị 501",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr502",
+                  "name": "sách kinh dị 502",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr503",
+                  "name": "sách kinh dị 503",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr504",
+                  "name": "sách kinh dị 504",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr505",
+                  "name": "sách kinh dị 505",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bookStoreDistrict02",
+    [
+      "bookshelf01",
+      [
+        "type",
+        [
+          "science",
+          [
+            "book",
+            [
+              {
+                "id": "sc01",
+                "name": "sách khoa học 01",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc02",
+                "name": "sách khoa học 02",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc03",
+                "name": "sách khoa học 03",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc04",
+                "name": "sách khoa học 04",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc05",
+                "name": "sách khoa học 05",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom",
+            [
+              "book",
+              {
+                "id": "km01",
+                "name": "sách mẹ và bé 01",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km02",
+                "name": "sách mẹ và bé 02",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km03",
+                "name": "sách mẹ và bé 03",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km04",
+                "name": "sách mẹ và bé 04",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km05",
+                "name": "sách mẹ và bé 05",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure",
+            [
+              "book",
+              {
+                "id": "ad01",
+                "name": "sách thám hiểm 01",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad02",
+                "name": "sách thám hiểm 02",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad03",
+                "name": "sách thám hiểm 03",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad04",
+                "name": "sách thám hiểm 04",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad05",
+                "name": "sách thám hiểm 05",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems",
+            [
+              "book",
+              {
+                "id": "po01",
+                "name": "sách thơ tình 01",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po02",
+                "name": "sách thơ tình 02",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po03",
+                "name": "sách thơ tình 03",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po04",
+                "name": "sách thơ tình 04",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po05",
+                "name": "sách thơ tình 05",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror",
+            [
+              "book",
+              [
+                {
+                  "id": "hr01",
+                  "name": "sách kinh dị 01",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr02",
+                  "name": "sách kinh dị 02",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr03",
+                  "name": "sách kinh dị 03",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr04",
+                  "name": "sách kinh dị 04",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr05",
+                  "name": "sách kinh dị 05",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf02",
+      [
+        "type",
+        [
+          "science BS02",
+          [
+            "book",
+            [
+              {
+                "id": "sc201",
+                "name": "sách khoa học 201",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc202",
+                "name": "sách khoa học 202",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc203",
+                "name": "sách khoa học 203",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc204",
+                "name": "sách khoa học 204",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc205",
+                "name": "sách khoa học 205",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS2",
+            [
+              "book",
+              {
+                "id": "km201",
+                "name": "sách mẹ và bé 201",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km202",
+                "name": "sách mẹ và bé 202",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km203",
+                "name": "sách mẹ và bé 203",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km204",
+                "name": "sách mẹ và bé 204",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km205",
+                "name": "sách mẹ và bé 205",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS2",
+            [
+              "book",
+              {
+                "id": "ad201",
+                "name": "sách thám hiểm 201",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad202",
+                "name": "sách thám hiểm 202",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad203",
+                "name": "sách thám hiểm 203",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad204",
+                "name": "sách thám hiểm 204",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad205",
+                "name": "sách thám hiểm 205",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS2",
+            [
+              "book",
+              {
+                "id": "po201",
+                "name": "sách thơ tình 201",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po202",
+                "name": "sách thơ tình 202",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po203",
+                "name": "sách thơ tình 203",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po204",
+                "name": "sách thơ tình 204",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po205",
+                "name": "sách thơ tình 205",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS2",
+            [
+              "book",
+              [
+                {
+                  "id": "hr201",
+                  "name": "sách kinh dị 201",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr202",
+                  "name": "sách kinh dị 202",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr203",
+                  "name": "sách kinh dị 203",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr204",
+                  "name": "sách kinh dị 204",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr205",
+                  "name": "sách kinh dị 205",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf03",
+      [
+        "type",
+        [
+          "science BS03",
+          [
+            "book",
+            [
+              {
+                "id": "sc301",
+                "name": "sách khoa học 301",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc302",
+                "name": "sách khoa học 302",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc303",
+                "name": "sách khoa học 303",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc304",
+                "name": "sách khoa học 304",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc305",
+                "name": "sách khoa học 305",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS3",
+            [
+              "book",
+              {
+                "id": "km301",
+                "name": "sách mẹ và bé 301",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km302",
+                "name": "sách mẹ và bé 302",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km303",
+                "name": "sách mẹ và bé 303",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km304",
+                "name": "sách mẹ và bé 304",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km305",
+                "name": "sách mẹ và bé 305",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS3",
+            [
+              "book",
+              {
+                "id": "ad301",
+                "name": "sách thám hiểm 301",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad302",
+                "name": "sách thám hiểm 302",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad303",
+                "name": "sách thám hiểm 303",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad304",
+                "name": "sách thám hiểm 304",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad305",
+                "name": "sách thám hiểm 305",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS3",
+            [
+              "book",
+              {
+                "id": "po301",
+                "name": "sách thơ tình 301",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po302",
+                "name": "sách thơ tình 302",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po303",
+                "name": "sách thơ tình 303",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po304",
+                "name": "sách thơ tình 304",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po305",
+                "name": "sách thơ tình 305",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS3",
+            [
+              "book",
+              [
+                {
+                  "id": "hr301",
+                  "name": "sách kinh dị 301",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr302",
+                  "name": "sách kinh dị 302",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr303",
+                  "name": "sách kinh dị 303",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr304",
+                  "name": "sách kinh dị 304",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr305",
+                  "name": "sách kinh dị 305",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf04",
+      [
+        "type",
+        [
+          "science BS04",
+          [
+            "book",
+            [
+              {
+                "id": "sc401",
+                "name": "sách khoa học 401",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc402",
+                "name": "sách khoa học 402",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc403",
+                "name": "sách khoa học 403",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc404",
+                "name": "sách khoa học 404",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc405",
+                "name": "sách khoa học 405",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS4",
+            [
+              "book",
+              {
+                "id": "km401",
+                "name": "sách mẹ và bé 401",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km402",
+                "name": "sách mẹ và bé 402",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km403",
+                "name": "sách mẹ và bé 403",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km404",
+                "name": "sách mẹ và bé 404",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km405",
+                "name": "sách mẹ và bé 405",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS4",
+            [
+              "book",
+              {
+                "id": "ad401",
+                "name": "sách thám hiểm 401",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad402",
+                "name": "sách thám hiểm 402",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad403",
+                "name": "sách thám hiểm 403",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad404",
+                "name": "sách thám hiểm 404",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad405",
+                "name": "sách thám hiểm 405",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS4",
+            [
+              "book",
+              {
+                "id": "po401",
+                "name": "sách thơ tình 401",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po402",
+                "name": "sách thơ tình 402",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po403",
+                "name": "sách thơ tình 403",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po404",
+                "name": "sách thơ tình 404",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po405",
+                "name": "sách thơ tình 405",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS4",
+            [
+              "book",
+              [
+                {
+                  "id": "hr401",
+                  "name": "sách kinh dị 401",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr402",
+                  "name": "sách kinh dị 402",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr403",
+                  "name": "sách kinh dị 403",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr404",
+                  "name": "sách kinh dị 404",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr405",
+                  "name": "sách kinh dị 405",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf05",
+      [
+        "type",
+        [
+          "science BS05",
+          [
+            "book",
+            [
+              {
+                "id": "sc501",
+                "name": "sách khoa học 501",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc502",
+                "name": "sách khoa học 502",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc503",
+                "name": "sách khoa học 503",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc504",
+                "name": "sách khoa học 504",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc505",
+                "name": "sách khoa học 505",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS5",
+            [
+              "book",
+              {
+                "id": "km501",
+                "name": "sách mẹ và bé 501",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km502",
+                "name": "sách mẹ và bé 502",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km503",
+                "name": "sách mẹ và bé 503",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km504",
+                "name": "sách mẹ và bé 504",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km505",
+                "name": "sách mẹ và bé 505",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS5",
+            [
+              "book",
+              {
+                "id": "ad501",
+                "name": "sách thám hiểm 501",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad502",
+                "name": "sách thám hiểm 502",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad503",
+                "name": "sách thám hiểm 503",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad504",
+                "name": "sách thám hiểm 504",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad505",
+                "name": "sách thám hiểm 505",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS5",
+            [
+              "book",
+              {
+                "id": "po501",
+                "name": "sách thơ tình 501",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po502",
+                "name": "sách thơ tình 502",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po503",
+                "name": "sách thơ tình 503",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po504",
+                "name": "sách thơ tình 504",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po505",
+                "name": "sách thơ tình 505",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS5",
+            [
+              "book",
+              [
+                {
+                  "id": "hr501",
+                  "name": "sách kinh dị 501",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr502",
+                  "name": "sách kinh dị 502",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr503",
+                  "name": "sách kinh dị 503",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr504",
+                  "name": "sách kinh dị 504",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr505",
+                  "name": "sách kinh dị 505",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    "bookStoreDistrict03",
+    [
+      "bookshelf01",
+      [
+        "type",
+        [
+          "science",
+          [
+            "book",
+            [
+              {
+                "id": "sc01",
+                "name": "sách khoa học 01",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc02",
+                "name": "sách khoa học 02",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc03",
+                "name": "sách khoa học 03",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc04",
+                "name": "sách khoa học 04",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc05",
+                "name": "sách khoa học 05",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom",
+            [
+              "book",
+              {
+                "id": "km01",
+                "name": "sách mẹ và bé 01",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km02",
+                "name": "sách mẹ và bé 02",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km03",
+                "name": "sách mẹ và bé 03",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km04",
+                "name": "sách mẹ và bé 04",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km05",
+                "name": "sách mẹ và bé 05",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure",
+            [
+              "book",
+              {
+                "id": "ad01",
+                "name": "sách thám hiểm 01",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad02",
+                "name": "sách thám hiểm 02",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad03",
+                "name": "sách thám hiểm 03",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad04",
+                "name": "sách thám hiểm 04",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad05",
+                "name": "sách thám hiểm 05",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems",
+            [
+              "book",
+              {
+                "id": "po01",
+                "name": "sách thơ tình 01",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po02",
+                "name": "sách thơ tình 02",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po03",
+                "name": "sách thơ tình 03",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po04",
+                "name": "sách thơ tình 04",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po05",
+                "name": "sách thơ tình 05",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror",
+            [
+              "book",
+              [
+                {
+                  "id": "hr01",
+                  "name": "sách kinh dị 01",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr02",
+                  "name": "sách kinh dị 02",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr03",
+                  "name": "sách kinh dị 03",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr04",
+                  "name": "sách kinh dị 04",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr05",
+                  "name": "sách kinh dị 05",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf02",
+      [
+        "type",
+        [
+          "science BS02",
+          [
+            "book",
+            [
+              {
+                "id": "sc201",
+                "name": "sách khoa học 201",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc202",
+                "name": "sách khoa học 202",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc203",
+                "name": "sách khoa học 203",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc204",
+                "name": "sách khoa học 204",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc205",
+                "name": "sách khoa học 205",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS2",
+            [
+              "book",
+              {
+                "id": "km201",
+                "name": "sách mẹ và bé 201",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km202",
+                "name": "sách mẹ và bé 202",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km203",
+                "name": "sách mẹ và bé 203",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km204",
+                "name": "sách mẹ và bé 204",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km205",
+                "name": "sách mẹ và bé 205",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS2",
+            [
+              "book",
+              {
+                "id": "ad201",
+                "name": "sách thám hiểm 201",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad202",
+                "name": "sách thám hiểm 202",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad203",
+                "name": "sách thám hiểm 203",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad204",
+                "name": "sách thám hiểm 204",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad205",
+                "name": "sách thám hiểm 205",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS2",
+            [
+              "book",
+              {
+                "id": "po201",
+                "name": "sách thơ tình 201",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po202",
+                "name": "sách thơ tình 202",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po203",
+                "name": "sách thơ tình 203",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po204",
+                "name": "sách thơ tình 204",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po205",
+                "name": "sách thơ tình 205",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS2",
+            [
+              "book",
+              [
+                {
+                  "id": "hr201",
+                  "name": "sách kinh dị 201",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr202",
+                  "name": "sách kinh dị 202",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr203",
+                  "name": "sách kinh dị 203",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr204",
+                  "name": "sách kinh dị 204",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr205",
+                  "name": "sách kinh dị 205",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf03",
+      [
+        "type",
+        [
+          "science BS03",
+          [
+            "book",
+            [
+              {
+                "id": "sc301",
+                "name": "sách khoa học 301",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc302",
+                "name": "sách khoa học 302",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc303",
+                "name": "sách khoa học 303",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc304",
+                "name": "sách khoa học 304",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc305",
+                "name": "sách khoa học 305",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS3",
+            [
+              "book",
+              {
+                "id": "km301",
+                "name": "sách mẹ và bé 301",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km302",
+                "name": "sách mẹ và bé 302",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km303",
+                "name": "sách mẹ và bé 303",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km304",
+                "name": "sách mẹ và bé 304",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km305",
+                "name": "sách mẹ và bé 305",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS3",
+            [
+              "book",
+              {
+                "id": "ad301",
+                "name": "sách thám hiểm 301",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad302",
+                "name": "sách thám hiểm 302",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad303",
+                "name": "sách thám hiểm 303",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad304",
+                "name": "sách thám hiểm 304",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad305",
+                "name": "sách thám hiểm 305",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS3",
+            [
+              "book",
+              {
+                "id": "po301",
+                "name": "sách thơ tình 301",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po302",
+                "name": "sách thơ tình 302",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po303",
+                "name": "sách thơ tình 303",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po304",
+                "name": "sách thơ tình 304",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po305",
+                "name": "sách thơ tình 305",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS3",
+            [
+              "book",
+              [
+                {
+                  "id": "hr301",
+                  "name": "sách kinh dị 301",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr302",
+                  "name": "sách kinh dị 302",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr303",
+                  "name": "sách kinh dị 303",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr304",
+                  "name": "sách kinh dị 304",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr305",
+                  "name": "sách kinh dị 305",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf04",
+      [
+        "type",
+        [
+          "science BS04",
+          [
+            "book",
+            [
+              {
+                "id": "sc401",
+                "name": "sách khoa học 401",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc402",
+                "name": "sách khoa học 402",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc403",
+                "name": "sách khoa học 403",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc404",
+                "name": "sách khoa học 404",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc405",
+                "name": "sách khoa học 405",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS4",
+            [
+              "book",
+              {
+                "id": "km401",
+                "name": "sách mẹ và bé 401",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km402",
+                "name": "sách mẹ và bé 402",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km403",
+                "name": "sách mẹ và bé 403",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km404",
+                "name": "sách mẹ và bé 404",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km405",
+                "name": "sách mẹ và bé 405",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS4",
+            [
+              "book",
+              {
+                "id": "ad401",
+                "name": "sách thám hiểm 401",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad402",
+                "name": "sách thám hiểm 402",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad403",
+                "name": "sách thám hiểm 403",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad404",
+                "name": "sách thám hiểm 404",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad405",
+                "name": "sách thám hiểm 405",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS4",
+            [
+              "book",
+              {
+                "id": "po401",
+                "name": "sách thơ tình 401",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po402",
+                "name": "sách thơ tình 402",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po403",
+                "name": "sách thơ tình 403",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po404",
+                "name": "sách thơ tình 404",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po405",
+                "name": "sách thơ tình 405",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS4",
+            [
+              "book",
+              [
+                {
+                  "id": "hr401",
+                  "name": "sách kinh dị 401",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr402",
+                  "name": "sách kinh dị 402",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr403",
+                  "name": "sách kinh dị 403",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr404",
+                  "name": "sách kinh dị 404",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr405",
+                  "name": "sách kinh dị 405",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ],
+      "bookshelf05",
+      [
+        "type",
+        [
+          "science BS05",
+          [
+            "book",
+            [
+              {
+                "id": "sc501",
+                "name": "sách khoa học 501",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc502",
+                "name": "sách khoa học 502",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc503",
+                "name": "sách khoa học 503",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc504",
+                "name": "sách khoa học 504",
+                "type": "vũ trụ"
+              },
+              {
+                "id": "sc505",
+                "name": "sách khoa học 505",
+                "type": "vũ trụ"
+              }
+            ],
+            "kids And Mom BS5",
+            [
+              "book",
+              {
+                "id": "km501",
+                "name": "sách mẹ và bé 501",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km502",
+                "name": "sách mẹ và bé 502",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km503",
+                "name": "sách mẹ và bé 503",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km504",
+                "name": "sách mẹ và bé 504",
+                "type": "trẻ em"
+              },
+              {
+                "id": "km505",
+                "name": "sách mẹ và bé 505",
+                "type": "trẻ em"
+              }
+            ],
+            "Adventure BS5",
+            [
+              "book",
+              {
+                "id": "ad501",
+                "name": "sách thám hiểm 501",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad502",
+                "name": "sách thám hiểm 502",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad503",
+                "name": "sách thám hiểm 503",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad504",
+                "name": "sách thám hiểm 504",
+                "type": "thám hiểm"
+              },
+              {
+                "id": "ad505",
+                "name": "sách thám hiểm 505",
+                "type": "thám hiểm"
+              }
+            ],
+            "love poems BS5",
+            [
+              "book",
+              {
+                "id": "po501",
+                "name": "sách thơ tình 501",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po502",
+                "name": "sách thơ tình 502",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po503",
+                "name": "sách thơ tình 503",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po504",
+                "name": "sách thơ tình 504",
+                "type": "lãng mạn"
+              },
+              {
+                "id": "po505",
+                "name": "sách thơ tình 505",
+                "type": "lãng mạn"
+              }
+            ],
+            "horror BS5",
+            [
+              "book",
+              [
+                {
+                  "id": "hr501",
+                  "name": "sách kinh dị 501",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr502",
+                  "name": "sách kinh dị 502",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr503",
+                  "name": "sách kinh dị 503",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr504",
+                  "name": "sách kinh dị 504",
+                  "type": "kinh dị"
+                },
+                {
+                  "id": "hr505",
+                  "name": "sách kinh dị 505",
+                  "type": "kinh dị"
+                }
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+}
